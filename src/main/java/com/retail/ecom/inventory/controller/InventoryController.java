@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.retail.ecom.content.bootstrap.InventoryApplication;
+import com.retail.ecom.inventory.bootstrap.InventoryApplication;
 import com.retail.ecom.inventory.pojo.Inventory;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.retail.ecom.content.bootstrap;
+package com.retail.ecom.inventory.bootstrap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
